@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="repo.jpg" alt="Logo" width="200"/>
+  <img src="repo.jpg" alt="Logo" width="300"/>
 </p>
 <h1 align="center">Hi 👋, I'm mohamed</h1>
 <h3 align="center">A passionate developer and cyber-security enthusiast from Morocco</h3>
